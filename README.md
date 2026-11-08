@@ -1,14 +1,14 @@
-# Gareth Manning — Educational Rebuild
+# logosliste — Educational Platform
 
-Bilingual Arabic/English educational reconstruction of a personal education and technology portfolio website.
+Bilingual Arabic/English educational platform prototype.
 
-> **Independent educational prototype.** This is not the official website. All content is either original to this reconstruction or clearly marked as illustrative.
+> **Independent educational prototype.** All content is original to this project or clearly marked as illustrative. Developed by **logosliste**.
 
 ## Project Goals
 
-- Reconstruct the information architecture and user experience of an education/technology portfolio in a bilingual (Arabic + English) format.
+- Build a clean, bilingual (Arabic + English) educational platform focused on periodic review and interactive assessments.
 - Demonstrate proper RTL/LTR handling, responsive design, and progressive enhancement.
-- Provide a clean, documented foundation for further educational and technical development.
+- Provide a documented, editable foundation for further educational and technical development.
 - Serve as a learning artifact for bilingual web development and content structure.
 
 ## Technologies
@@ -45,7 +45,7 @@ Visit `http://localhost:8000`.
 ## Repository Structure
 
 ```
-gareth-manning-educational-rebuild/
+logosliste-educational-rebuild/
 ├── index.html
 ├── styles.css
 ├── script.js
@@ -67,11 +67,11 @@ gareth-manning-educational-rebuild/
 
 ## Development Principles
 
-- Do not change the current visual design without explicit approval.
-- Preserve existing functionality.
+- Keep the structure editable and content-driven.
+- Preserve bilingual support and existing functionality.
 - Keep the Git history clear and atomic.
 - Never commit secrets, API keys, or private data.
-- Respect licensing: do not copy protected content from the original site without permission.
+- Content is experimental and should be replaced with final material.
 
 ## Future Stages
 
@@ -79,4 +79,4 @@ See [docs/roadmap.md](docs/roadmap.md) for the planned evolution of the project.
 
 ---
 
-© 2026 — Independent educational prototype
+© 2026 — logosliste — Independent educational prototype
